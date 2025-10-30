@@ -50,3 +50,16 @@ Eixo: pizza_category
 
 Valores: Ticket Médio e/ou Receita Total
 
+
+# 🧠 Resumo de Insights Estratégicos
+
+| Área         | Insight                       | Ação Recomendada                           |
+| ------------ | ----------------------------- | ------------------------------------------ |
+| Tempo        | Pico às 18–21h (sexta/sábado) | Promoções noturnas                         |
+| Produto      | “Chicken” domina receita      | Criar combos premium                       |
+| Tamanho      | Linearidade no preço          | Descontos progressivos em tamanhos grandes |
+| Sazonalidade | Alta em férias/feriados       | Campanhas sazonais                         |
+| Ticket Médio | Chicken & Supreme lideram     | Focar em marketing dessas categorias       |
+| Outliers     | Pedidos corporativos          | Programa fidelidade B2B                    |
+
+
